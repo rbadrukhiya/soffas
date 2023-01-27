@@ -1,0 +1,274 @@
+@media screen and (max-width:1800px) {
+    .section-3-content-heading {
+        font-size: 16px;
+    }
+
+}
+@media screen and (max-width:1200px) {
+    .section-3-content-heading {
+        font-size: 16px;
+    }
+
+}
+@media screen and (max-width:992px) {
+    .section-3-content-heading {
+        font-size: 14px;
+    }
+
+}
+@media screen and (max-width:768px) {
+    .section-3-content-heading {
+        font-size: 11px;
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .section-3-content-heading {
+        font-size: 9px;
+    }
+
+}
+
+@media screen and (max-width:1800px) {
+    .se-f {
+        font-size: 40px;
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .se-f {
+        font-size: 40px;
+    }
+
+}
+
+@media screen and (max-width:992px) {
+    .se-f {
+        font-size: 35px;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .se-f {
+        font-size: 25px;
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .se-f {
+        font-size: 16px;
+    }
+
+}
+
+
+@media screen and (max-width:1800px) {
+    .btn-shop {
+        width: 120px;
+        height: 36px;
+        font-size: 14px;
+        margin-top: 16px;
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .btn-shop {
+        width: 120px;
+        height: 36px;
+        font-size: 14px;
+        margin-top: 20px;
+
+    }
+
+}
+
+@media screen and (max-width:992px) {
+    .btn-shop {
+        width: 110px;
+        height: 30px;
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .btn-shop {
+        width: 120px;
+        height: 36px;
+        font-size: 14px;
+        margin-top: 4px;
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .btn-shop {
+        width: 50px;
+        height: 15px;
+        font-size: 5px;
+        margin-top: 1px;
+    }
+
+}
+
+
+
+
+@media screen and (max-width:1800px) {
+    .section-3-content {
+        top: 20%;
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .section-3-content {
+        top: 20%;
+    }
+
+}
+
+@media screen and (max-width:992px) {
+    .section-3-content {
+        top: 20%;
+    }
+
+}
+
+@media screen and (max-width:768px) {
+    .section-3-content {
+        top: 9%
+    }
+
+}
+
+@media screen and (max-width:576px) {
+    .section-3-content {
+        top: -12%;
+    }
+
+}
+
+@media screen and (max-width:1800px) {
+    .arrivals-heading span {
+        font-size: 36px;
+    }
+
+}
+
+@media screen and (max-width:1200px) {
+    .arrivals-heading span {
+        font-size: 30px;
+    }
+
+}
+
+@media screen and (max-width:568px) {
+    .arrivals-heading span {
+        font-size: 25px;
+    }
+
+}
+
+@media screen and (max-width:1800px) {
+    .arrivals-heading {
+        padding: 5;
+    }
+
+}
+
+@media screen and (max-width:568px) {
+    .arrivals-heading {
+        padding: 10px !important;
+    }
+
+}
+
+@media screen and (max-width:1400px) {
+    .slider-f-content span {
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .slider-f-content span {
+        font-size: 55px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .slider-f-content span {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .slider-f-content span {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width:568px) {
+    .slider-f-content span {
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:568px) {
+    .slider-f-content{
+        top: 0%!important;
+    }
+    
+}
+@media  screen and (max-width:568px) {
+    .section-3-box-1-img{
+        margin-top: 5%!important;
+    }
+    
+}
+@media screen and (max-width:992px) {
+    .f-s2-3 , .f-s2-4{
+        margin-top: 10px;
+    }
+    
+}
+
+@media screen and (max-width:400px) {
+    .logo-1 img{
+        width: 170px;
+        height: 60px;
+    }
+    
+}
+@media screen and (max-width:992px) {
+    .slider-logo{
+        margin-bottom: 70px!important;
+    }
+    
+}
+
+@media screen and (max-width:992px) {
+    .bottom-menu{
+        font-size: 16px;
+    }
+    
+}
+@media screen and (max-width:768px) {
+    .bottom-menu{
+        font-size: 14px;
+    }
+    
+}
+@media screen and (max-width:568px) {
+    .bottom-menu{
+        font-size: 13px;
+        margin: 0!important;
+    }
+    
+}
+
